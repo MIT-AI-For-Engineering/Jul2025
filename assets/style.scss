@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.2;
   margin: 1em 0 15px;
   padding: 0;
   text-align: center;
@@ -108,14 +108,14 @@ table tr th {
 	border: 1px solid #cccccc;
 	text-align: left;
 	margin: 0;
-	padding: 6px 13px;
+	padding: 6px 10px;
 }
 
 table tr td {
 	border: 1px solid #cccccc;
 	text-align: left;
 	margin: 0;
-	padding: 6px 13px;
+	padding: 6px 10px;
 }
 
 table tr th :first-child,
@@ -126,6 +126,46 @@ table tr td :first-child {
 table tr th :last-child,
 table tr td :last-child {
 	margin-bottom: 0;
+}
+
+/* Schedule table specific styling */
+.schedule-table {
+	width: 100%;
+	max-width: 100%;
+	table-layout: fixed;
+	margin: 10px 0;
+}
+
+.schedule-table th,
+.schedule-table td {
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	hyphens: auto;
+	padding: 8px 8px;
+	font-size: 15px;
+	line-height: 1.4;
+}
+
+.schedule-table th:first-child,
+.schedule-table td:first-child {
+	width: 15%;
+	font-weight: bold;
+}
+
+.schedule-table th:not(:first-child),
+.schedule-table td:not(:first-child) {
+	width: 17%;
+}
+
+@media (max-width: 768px) {
+	.schedule-table {
+		font-size: 12px;
+	}
+	
+	.schedule-table th,
+	.schedule-table td {
+		padding: 8px 4px;
+	}
 }
 
 /*.detailed .entry p:first-of-type:first-letter {
