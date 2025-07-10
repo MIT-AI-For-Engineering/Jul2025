@@ -25,7 +25,7 @@ title: MIT AI for Engineering - July 2025
 <td>Module 3: Predictive Modeling & Responsible AI in Engineering</td>
 <td>Module 5: Computer Vision for Quality Control & Robotic Inspection</td>
 <td>Module 7: Validating, Securing & Trusting Engineering AI Models</td>
-<td>Module 9: Transformer Models for Predictive-Maintenance Time-Series</td>
+<td>Module 9: Multi-Objective Optimization for Manufacturing Processes</td>
 </tr>
 <tr>
 <td><strong>10:45am - 12:30pm</strong></td>
@@ -33,7 +33,7 @@ title: MIT AI for Engineering - July 2025
 <td>Module 3: Hands-On Model Training + MLflow Experiment Tracking</td>
 <td>Module 5: Hands-On Defect Detection with CNN / Vision Transformer Models</td>
 <td>Module 7: Hands-On Cross-Validation, Uncertainty & Adversarial Robustness</td>
-<td>Module 9: Hands-On Fine-Tuning Transformers on Sensor Logs</td>
+<td>Module 9: Hands-On Multi-Objective Optimization for Manufacturing Processes</td>
 </tr>
 <tr>
 <td><strong>12:30pm - 1:30pm</strong></td>
