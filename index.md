@@ -7,6 +7,10 @@ title: MIT AI for Engineering - July 2025
 ### Teaching Fellow: Rashmi Banthia (Harvard University)
    
 &nbsp;
+
+[HW0 Prerequisites Form](https://forms.gle/gG5Fzwdaduv9GZaM8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Discord](https://bit.ly/mitaidiscordjuly2025)
+
 <table class="schedule-table">
 <thead>
 <tr>
